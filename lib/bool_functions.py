@@ -1,2 +1,5 @@
+# bool_functions.py
+
 def return_true():
-    return False
+    '''This function returns True.'''
+    return True
